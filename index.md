@@ -15,10 +15,11 @@ The guides are educational and vendor-neutral. Where a topic connects to a speci
 - [Medical Tourism Safety — What to Know](./guides/medical-tourism-safety-what-to-know.md)
 - [Traveling to Medellín for Treatment](./guides/traveling-to-medellin-for-treatment.md)
 - [Choosing a Medical Tourism Facilitator](./guides/choosing-a-medical-tourism-facilitator.md)
+- [Aesthetic Medicine in Medellín — Botox and Dermal Fillers](./guides/aesthetic-medicine-botox-fillers-medellin.md)
 
 ## Popular Reasons Patients Travel
 
-International patients come to Colombia for a wide range of care. Some plan [weight-loss and bariatric surgery in Colombia](https://healthbridgemedicaltourism.com/bariatric-surgery-colombia/) to access procedures that carry long waits or high out-of-pocket costs at home. Others research [fertility and IVF treatment in Colombia](https://healthbridgemedicaltourism.com/fertility-treatment-colombia/), or arrive for orthopedic care such as [hip and knee joint replacement](https://healthbridgemedicaltourism.com/joint-replacement-colombia/). Whatever the reason, the common thread is that bilingual coordination makes the trip manageable.
+International patients come to Colombia for a wide range of care. Some plan [weight-loss and bariatric surgery in Colombia](https://healthbridgemedicaltourism.com/bariatric-surgery-colombia/) to access procedures that carry long waits or high out-of-pocket costs at home. Others research [fertility and IVF treatment in Colombia](https://healthbridgemedicaltourism.com/fertility-treatment-colombia/), or arrive for orthopedic care such as [hip and knee joint replacement](https://healthbridgemedicaltourism.com/joint-replacement-colombia/). Whatever the reason, the common thread is that bilingual coordination makes the trip manageable. Many visitors also add non-surgical aesthetic treatments to their trip, such as [Botox in Colombia](https://healthbridgemedicaltourism.com/botox-colombia/) or [dermal fillers in Colombia](https://healthbridgemedicaltourism.com/dermal-fillers-colombia/), which cost far less than in North America.
 
 Ready to explore? Start with the [complete guide to medical tourism in Colombia](./guides/medical-tourism-colombia-complete-guide.md), or reach out directly through [HealthBridge Medical Tourism](https://healthbridgemedicaltourism.com).
 
