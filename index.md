@@ -24,6 +24,14 @@ International patients come to Colombia for a wide range of care. Some plan [wei
 
 Ready to explore? Start with the [complete guide to medical tourism in Colombia](./guides/medical-tourism-colombia-complete-guide.md), or reach out directly through [HealthBridge Medical Tourism](https://healthbridgemedicaltourism.com).
 
+## Companion references
+
+Four further reference sites go deeper on prices and on how to read a quote:
+[what treatment actually costs in Colombia, by specialty](https://distribuidorademodaog.github.io/colombia-medical-cost-guides/);
+[fertility, regenerative and pain care](https://hb-vercel.vercel.app/);
+and, in Spanish, [precios de cirugia en Medellin](https://guia-cirugia-medellin.pages.dev/) and
+[medicina regenerativa y fertilidad](https://guia-regenerativa-medellin.guia-equipos-worker.workers.dev/).
+
 ---
 
 *Informational only — not medical advice. Consult a qualified physician about your situation.*
